@@ -2,10 +2,10 @@
 
 ## 1. Dados do Projeto
 
-- **Aluno:** Alair Eloi de Araujo Neto
+- **Aluno:** Jean Emanuel Alves de Morais
 - **Disciplina:** Algoritmos e Pensamento Computacional
 - **Professora:** Profa. Karla Sartin
-- **Projeto:** Sistema de Monitoramento e Alerta de Temperatura
+- **Projeto:** Monitoramento e Alerta de Temperatura em C
 
 ## 2. Proposta
 
